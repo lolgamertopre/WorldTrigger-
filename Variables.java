@@ -15,4 +15,4 @@ public class Variables {
         System.out.println(v.myBool);
         System.out.println(v.myText);
     }
-}
+}sdsds
