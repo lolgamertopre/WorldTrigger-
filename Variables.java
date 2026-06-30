@@ -1,4 +1,3 @@
-
 public class Variables {
     int myNum = 1000;
     float myFloatNum = 3.14f;
@@ -9,6 +8,11 @@ public class Variables {
 
     public static void main(String[] args) {
         Variables v = new Variables();
+        System.out.println(v.myNum);
+        System.out.println(v.myFloatNum);
+        System.out.println(v.myDoubleNum);
+        System.out.println(v.myLetter);
+        System.out.println(v.myBool);
         System.out.println(v.myText);
     }
 }
